@@ -60,7 +60,7 @@
       <RoleType>Web</RoleType>
       <OutputItemType>SharePointWebProjectOutput</OutputItemType>
       <RoleName>Word.MVCAddInTemplateWeb</RoleName>
-      <ReferenceOutputAssembly>False</ReferenceOutputAssembly>
+      <ReferenceOutputAssembly>True</ReferenceOutputAssembly>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
